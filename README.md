@@ -2,5 +2,11 @@
 
 ## REFERENCES
 
-http://islscp2.sesda.com/ISLSCP2_1/data/ancillary/land_water_masks_xdeg/0_land_water_masks_readme.txt
-http://islscp2.sesda.com/ISLSCP2_1/html_pages/groups/ancillary/land_water_masks_xdeg.html
+The awesome ISLSCPII project:
+http://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=29
+
+The masks:
+
+http://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1200
+
+ftp://ftp.daac.ornl.gov/data/islscp_ii/ancillary/combined_ancillary_xdeg//comp/0_land_water_masks_xdeg_readme.txt
