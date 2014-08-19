@@ -13,12 +13,6 @@ The input file should be an ASCII text land percentage file.
 First row is northernmost with cells running from -180
 to +180.  Resolution of file is computed from file format
 (360 values per row is 1 degree, 720 is 0.5 degree, 1440 is 0.25 degree)
-
-REFERENCES
-
-http://islscp2.sesda.com/ISLSCP2_1/data/ancillary/land_water_masks_xdeg/0_land_water_masks_readme.txt
-http://islscp2.sesda.com/ISLSCP2_1/html_pages/groups/ancillary/land_water_masks_xdeg.html
-
 """
 
 # http://code.google.com/p/pypng/
